@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HoloEarth: AI & Gesture Interface",
+  "description": "A 3D holographic Earth visualization controlled by hand gestures using MediaPipe and React Three Fiber, featuring AI-generated scientific insights via Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
